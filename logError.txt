@@ -1,0 +1,127 @@
+
+[ Kamis, 27 - 12 - 2018 | 15:14:54 ] Expecting value: line 1 column 1 (char 0)
+[ Kamis, 27 - 12 - 2018 | 15:15:10 ] Expecting value: line 1 column 1 (char 0)
+[ Kamis, 27 - 12 - 2018 | 15:58:02 ] Expecting value: line 1 column 1 (char 0)
+[ Jumat, 28 - 12 - 2018 | 13:10:54 ] 'bool' object is not subscriptable
+[ Jumat, 28 - 12 - 2018 | 13:11:02 ] 'bool' object is not subscriptable
+[ Jumat, 28 - 12 - 2018 | 13:13:49 ] 'bool' object is not subscriptable
+[ Jumat, 28 - 12 - 2018 | 13:13:56 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 15:20:27 ] 'LINE' object has no attribute 'sendReplyImage'
+[ Selasa, 01 - 01 - 2019 | 15:30:12 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 15:30:32 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 15:31:10 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 15:31:51 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 15:32:32 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 15:33:22 ] name 'log' is not defined
+[ Selasa, 01 - 01 - 2019 | 15:33:39 ] name 'log' is not defined
+[ Selasa, 01 - 01 - 2019 | 15:39:36 ] 'respon'
+[ Selasa, 01 - 01 - 2019 | 15:45:11 ] Expecting value: line 1 column 1 (char 0)
+[ Selasa, 01 - 01 - 2019 | 15:45:47 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 15:49:08 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 15:57:54 ] name 'log' is not defined
+[ Selasa, 01 - 01 - 2019 | 15:57:55 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 15:58:16 ] name 'log' is not defined
+[ Selasa, 01 - 01 - 2019 | 15:58:17 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 16:00:45 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 16:01:01 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 16:01:19 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 16:01:28 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 16:06:17 ] Expecting value: line 1 column 1 (char 0)
+[ Selasa, 01 - 01 - 2019 | 16:10:33 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 16:13:13 ] string indices must be integers
+[ Selasa, 01 - 01 - 2019 | 16:20:54 ] Invalid mids
+[ Selasa, 01 - 01 - 2019 | 16:22:09 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 16:22:43 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 16:23:02 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 16:23:20 ] string indices must be integers
+[ Selasa, 01 - 01 - 2019 | 16:35:25 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 16:49:34 ] 'autoCancel'
+[ Selasa, 01 - 01 - 2019 | 17:12:21 ] 'LINE' object has no attribute 'sendReplyMention'
+[ Selasa, 01 - 01 - 2019 | 17:18:42 ] 'LINE' object has no attribute 'sendReplyMention'
+[ Selasa, 01 - 01 - 2019 | 17:18:58 ] 'LINE' object has no attribute 'sendReplyMention'
+[ Selasa, 01 - 01 - 2019 | 17:22:55 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Selasa, 01 - 01 - 2019 | 17:38:51 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 17:41:05 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 17:54:20 ] name 'client' is not defined
+[ Selasa, 01 - 01 - 2019 | 17:59:01 ] name 'client' is not defined
+[ Selasa, 01 - 01 - 2019 | 18:10:39 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 18:11:00 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 18:12:39 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 18:18:21 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 18:19:25 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 18:21:03 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 18:23:17 ] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[ Selasa, 01 - 01 - 2019 | 18:24:41 ] Expecting value: line 1 column 1 (char 0)
+[ Selasa, 01 - 01 - 2019 | 18:33:18 ] 'shorturl'
+[ Selasa, 01 - 01 - 2019 | 18:45:20 ] 'respon'
+[ Selasa, 01 - 01 - 2019 | 18:47:44 ] 'LINE' object has no attribute 'sendReplyImage'
+[ Selasa, 01 - 01 - 2019 | 18:48:18 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 18:49:18 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 18:55:18 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 18:59:13 ] 'LINE' object has no attribute 'sendReplyImage'
+[ Selasa, 01 - 01 - 2019 | 18:59:30 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 18:59:38 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 19:00:05 ] name 'log' is not defined
+[ Selasa, 01 - 01 - 2019 | 19:00:06 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 19:00:11 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Selasa, 01 - 01 - 2019 | 19:00:40 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 19:01:14 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 19:02:43 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 19:03:24 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 19:16:28 ] string indices must be integers
+[ Selasa, 01 - 01 - 2019 | 19:16:49 ] string indices must be integers
+[ Selasa, 01 - 01 - 2019 | 19:16:56 ] string indices must be integers
+[ Selasa, 01 - 01 - 2019 | 19:17:32 ] string indices must be integers
+[ Selasa, 01 - 01 - 2019 | 19:19:54 ] 'bool' object is not subscriptable
+[ Selasa, 01 - 01 - 2019 | 19:20:25 ] 'hot_threads'
+[ Selasa, 01 - 01 - 2019 | 19:26:23 ] Expecting value: line 1 column 1 (char 0)
+[ Rabu, 02 - 01 - 2019 | 12:12:09 ] 'bool' object is not subscriptable
+[ Rabu, 02 - 01 - 2019 | 13:39:11 ] 'LINE' object has no attribute 'sendReplyImage'
+[ Rabu, 02 - 01 - 2019 | 13:40:47 ] [Errno 22] Invalid argument: 'http://u3.photofunia.com/2/results/4/F/4F7jiGRAKyPAktBiJ8MthQ_l.jpg?download'
+[ Rabu, 02 - 01 - 2019 | 13:43:40 ] 'LINE' object has no attribute 'sendReplyImage'
+[ Rabu, 02 - 01 - 2019 | 14:02:41 ] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[ Rabu, 02 - 01 - 2019 | 14:06:02 ] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[ Rabu, 02 - 01 - 2019 | 14:08:19 ] name 'sendMessage' is not defined
+[ Rabu, 02 - 01 - 2019 | 18:59:55 ] 'autoCancel'
+[ Rabu, 02 - 01 - 2019 | 19:01:10 ] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[ Rabu, 02 - 01 - 2019 | 19:01:13 ] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[ Rabu, 02 - 01 - 2019 | 19:01:33 ] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[ Rabu, 02 - 01 - 2019 | 19:05:02 ] 'autoCancel'
+[ Rabu, 02 - 01 - 2019 | 19:12:18 ] 'autoCancel'
+[ Rabu, 02 - 01 - 2019 | 19:16:39 ] 'autoCancel'
+[ Rabu, 02 - 01 - 2019 | 19:29:09 ] local variable 'msg' referenced before assignment
+[ Rabu, 02 - 01 - 2019 | 19:29:57 ] local variable 'msg' referenced before assignment
+[ Rabu, 02 - 01 - 2019 | 19:35:22 ] 'shorturl'
+[ Rabu, 02 - 01 - 2019 | 19:36:25 ] Expecting value: line 1 column 1 (char 0)
+[ Rabu, 02 - 01 - 2019 | 21:40:31 ] name 'msg' is not defined
+[ Rabu, 02 - 01 - 2019 | 21:48:26 ] Expecting value: line 1 column 1 (char 0)
+[ Rabu, 02 - 01 - 2019 | 21:55:14 ] Expecting value: line 1 column 1 (char 0)
+[ Rabu, 02 - 01 - 2019 | 21:57:46 ] Expecting value: line 1 column 1 (char 0)
+[ Kamis, 03 - 01 - 2019 | 01:16:57 ] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[ Kamis, 03 - 01 - 2019 | 01:17:24 ] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[ Kamis, 03 - 01 - 2019 | 01:18:10 ] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[ Kamis, 03 - 01 - 2019 | 01:19:13 ] 'LINE' object has no attribute 'sendReplyImageWithURL'
+[ Kamis, 03 - 01 - 2019 | 01:23:12 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:23:12 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:23:14 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:23:22 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:24:51 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:24:51 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:24:51 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:24:51 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:30:59 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:30:59 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:32:50 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:32:50 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:32:50 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:32:50 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:32:50 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:34:41 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:34:41 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:34:41 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:36:32 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:36:32 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:38:23 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:38:23 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:38:23 ] dictionary changed size during iteration
+[ Kamis, 03 - 01 - 2019 | 01:38:23 ] dictionary changed size during iteration
